@@ -36,7 +36,7 @@ A simple backend for managing sales leads, built with Node.js, Express, and Mong
 
 ```bash
 npm install
-cp .env.example .env   # drop your MongoDB URI in here
+cp .env   # drop your MongoDB URI in here
 npm run dev
 ```
 
